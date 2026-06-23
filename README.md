@@ -37,11 +37,11 @@ theia_cctv_ai/
 
 ## 모델 파일
 
-기본 경로는 Colab/Google Drive 기준입니다.
+기본 경로는 Git-main 기준입니다.
 
 ```
-A Group : /content/drive/MyDrive/GaiaLabs/A_group_model/a_group_yolov8n_best.pt
-D Group : /content/drive/MyDrive/GaiaLabs/D_group_model/best.pt
+A Group : models/a_group_yolov8n_best.pt
+D Group : models/best.pt
 ```
 
 로컬 실행 시 아래 세 가지 방법 중 하나를 선택합니다.
