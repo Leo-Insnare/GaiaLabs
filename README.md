@@ -61,7 +61,7 @@ export THEIA_A_MODEL_PATH=models/a_group_yolov8n_best.pt
 export THEIA_D_MODEL_PATH=models/best.pt
 ```
 
-> **주의** — `.pt` 파일은 용량 문제로 git에 포함하지 않습니다. `.gitignore`에 `models/` 가 등록되어 있는지 확인하세요.
+> **주의** — `.pt` 파일은 용량 문제로 git에 포함하지 않습니다. `.gitignore`에 `models/` 가 등록되어 있는지 확인하세요. (현 Git 에는 포함)
 
 ---
 
